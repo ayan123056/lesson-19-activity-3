@@ -5,3 +5,6 @@ print(math.tan(45))
 print(math.ceil(45.490))
 print(math.floor(45.890))
 print(math.factorial(5))
+x = 10
+y = -15
+print(math.copysign(x,y))
